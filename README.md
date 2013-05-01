@@ -1,4 +1,4 @@
-# Example AngularJS Directive Testing Project 
+# Example AngularJS Directive Testing Project [![Build Status](https://travis-ci.org/newtriks/angularjs-directives-testing-project.png?branch=master)](https://travis-ci.org/newtriks/angularjs-directives-testing-project)
 
 Read the corresponding [blog post](http://www.newtriks.com/2013/04/26/how-to-test-an-angularjs-directive/)
 
