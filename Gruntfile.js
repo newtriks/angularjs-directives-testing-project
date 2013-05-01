@@ -300,4 +300,6 @@ module.exports = function (grunt) {
   ]);
 
   grunt.registerTask('default', ['build']);
+  // Travis CI task.
+  grunt.registerTask('travis', 'jshint');
 };
